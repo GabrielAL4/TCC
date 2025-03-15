@@ -1,0 +1,23 @@
+O uso de inteligência artificial no diagnóstico de Alzheimer
+
+O objetivo:
+
+O objetivo geral deste trabalho é desenvolver uma ferramenta de apoio ao diagnóstico da Doença de Alzheimer utilizando técnicas de Inteligência Artificial, 
+com ênfase em redes neurais artificiais.
+
+A proposta consiste na análise de dados clínicos e comportamentais relacionados à doença. Esses dados serão utilizados para treinar modelos de IA capazes de 
+reconhecer padrões indicativos de Alzheimer. A partir desse treinamento, o sistema será capaz de estimar a probabilidade de um diagnóstico positivo, oferecendo 
+suporte complementar à avaliação médica tradicional.
+
+Ao final desse projeto, espera-se alcançar os seguintes resultados:
+
+-Desenvolver uma rede neural artificial capaz de analisar os dados coletados com foco na identificação de padrões associados à doença;
+-Uma avaliação de acurácia e a eficiencia dos modelos propostos na previsão de diagnósticos em comparação com metodologias tradicionais;
+-Criar interface simples (como um Chatbot ou WebApp) utilizando a biblioteca Streamlit que permita a interação com o modelo treinado;
+-Disponibilizar os dados resultantes da pesquisa de forma estruturada, permitindo que possam ser consumidos e reutilizados individualmente;
+-Apresentar um demonstrativo das diferentes ferramentas de IA utilizadas em cada etapa do projeto(por exemplo: RNN para analisar a fala, Random Forest para os 
+exames clínicos e MLP para padroes gerais em bases de dados de pacientes);
+
+Uma parte do sistema usa RNN para analisar fala.
+Outra usa Random Forest para analisar exames.
+E ambos alimentam um modelo final de decisão (tipo um ensemble).
