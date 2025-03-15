@@ -1,5 +1,22 @@
 O uso de inteligência artificial no diagnóstico de Alzheimer
 
+Introdução:
+
+A Doença de Alzheimer é uma demência neurodegenerativa que provoca a deterioração progressiva da memória, do pensamento e do comportamento. Por se tratar de 
+uma condição degenerativa, seus sintomas tendem a se agravar ao longo do tempo, afetando diretamente a autonomia e a qualidade de vida dos pacientes. Trata-se 
+de uma enfermidade que, além de comprometer a vida da pessoa diagnosticada, também gera impactos significativos em seus familiares e cuidadores.
+
+Atualmente, não existe cura para o Alzheimer. No entanto, o diagnóstico precoce é um dos principais aliados no controle da doença, permitindo que tratamentos 
+sejam iniciados o quanto antes, com o objetivo de retardar sua progressão e proporcionar melhor qualidade de vida ao paciente. Neste cenário, soluções que contribuam 
+com a identificação precoce da doença tornam-se extremamente relevantes do ponto de vista clínico e social.
+
+E neste contexto este trabalho tem como objetivo desenvolver uma ferramenta de apoio ao diagnóstico da Doença de Alzheimer utilizando técnicas de Inteligência Artificial. 
+Serão analisados dados clínicos e comportamentais relacionados à doença, com o uso de redes neurais e outros modelos de IA, como RNNs e árvores de decisão, para treinar o 
+sistema. Ao final, espera-se disponibilizar uma aplicação funcional, com uma interface simples, capaz de interagir com o modelo treinado e fornecer estimativas quanto à 
+probabilidade de um diagnóstico positivo. Dessa forma, o projeto busca contribuir com a área da saúde, oferecendo uma solução acessível e eficiente no apoio à detecção 
+precoce da Doença de Alzheimer.
+
+
 O objetivo:
 
 O objetivo geral deste trabalho é desenvolver uma ferramenta de apoio ao diagnóstico da Doença de Alzheimer utilizando técnicas de Inteligência Artificial, 
